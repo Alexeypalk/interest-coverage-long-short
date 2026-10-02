@@ -46,8 +46,8 @@ This project takes point-in-time correctness seriously, because the most common 
 
 ```
 ├── interest_coverage_data_pull_code.ipynb          # Compustat + CRSP pull; builds the point-in-time monthly panel
-├── Interest_Coverage_alpha.ipynb           # Ranking, portfolio construction, risk budgeting, attribution
-├── data/                    # (gitignored) output CSV from the data pull
+├── Interest_Coverage_alpha.ipynb                   # Ranking, portfolio construction, risk budgeting, attribution
+├── data/                                           # (gitignored) output CSV from the data pull
 └── README.md
 ```
 
